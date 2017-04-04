@@ -1,4 +1,4 @@
-Crossroad Labs Site Repository
+Simple Landing Boilerplate
 
 * npm install
 * gulp build - to build project
