@@ -1,0 +1,33 @@
+{
+  "name": "crossroad-labs-site",
+  "version": "1.0.0",
+  "description": "Boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "landing",
+    "crossroad"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-dedupe": "0.0.2",
+    "gulp-flatten": "^0.3.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-remove-empty-lines": "0.0.8",
+    "gulp-sass": "^2.3.2",
+    "gulp-typescript": "^2.14.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9"
+  }
+}

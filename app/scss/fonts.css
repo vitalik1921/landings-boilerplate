@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'pf_square';
+  font-weight: 100;
+  font-style: normal;
+
+  src: url('../../../fonts/pfsquaresanspro-thin.eot');
+  src: url('../../../fonts/pfsquaresanspro-thin.eot?#iefix') format('embedded-opentype'), url('../../../fonts/pfsquaresanspro-thin.woff') format('woff'), url('../../../fonts/pfsquaresanspro-thin.ttf') format('truetype'), url('../../../fonts/pfsquaresanspro-thin.svg#pf_square_sans_prothin') format('svg');
+}
+@font-face {
+  font-family: 'pf_square';
+  font-weight: 300;
+  font-style: normal;
+
+  src: url('../../../fonts/pfsquaresanspro-light.eot');
+  src: url('../../../fonts/pfsquaresanspro-light.eot?#iefix') format('embedded-opentype'), url('../../../fonts/pfsquaresanspro-light.woff') format('woff'), url('../../../fonts/pfsquaresanspro-light.ttf') format('truetype'), url('../../../fonts/pfsquaresanspro-light.svg#pf_square_sans_prolight') format('svg');
+}
+@font-face {
+  font-family: 'pf_square';
+  font-weight: normal;
+  font-style: normal;
+
+  src: url('../../../fonts/pfsquaresanspro-regular.eot');
+  src: url('../../../fonts/pfsquaresanspro-regular.eot?#iefix') format('embedded-opentype'), url('../../../fonts/pfsquaresanspro-regular.woff') format('woff'), url('../../../fonts/pfsquaresanspro-regular.ttf') format('truetype'), url('../../../fonts/pfsquaresanspro-regular.svg#pf_square_sans_proregular') format('svg');
+}
+@font-face {
+  font-family: 'pf_square';
+  font-weight: 500;
+  font-style: normal;
+
+  src: url('../../../fonts/pfsquaresanspro-medium.eot');
+  src: url('../../../fonts/pfsquaresanspro-medium.eot?#iefix') format('embedded-opentype'), url('../../../fonts/pfsquaresanspro-medium.woff') format('woff'), url('../../../fonts/pfsquaresanspro-medium.ttf') format('truetype'), url('../../../fonts/pfsquaresanspro-medium.svg#pf_square_sans_promedium') format('svg');
+}
